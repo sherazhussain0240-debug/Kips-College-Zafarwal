@@ -1,0 +1,6 @@
+{
+  "name": "KIPS College Zafarwal – Student & Course Manager",
+  "description": "Student & Course Manager for KIPS College Zafarwal with real-time Supabase database integration for student records and courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
